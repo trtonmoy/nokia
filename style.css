@@ -553,10 +553,10 @@
   .elementor-element.elementor-element-176fb05
   > .elementor-background-overlay {
   background-color: #12151d36;
-  background-image: url("./images/cool-wallpapers-icegif-1.gif");
+  background-image: url("./images/back.gif");
   background-position: center center;
   background-size: cover cover;
-  /* background-repeat: no-repeat; */
+  background-repeat: no-repeat;
   width: 100%;
   background-size: contain;
   opacity: 0.68;
